@@ -1,9 +1,9 @@
 {
-  "name":"YESSER-MD",
-  "description":"Best whatsapp bot created by yessertech",
+  "name":"VENOM-WE",
+  "description":"Best whatsapp bot created by timnasa-venon",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.imgur.com/ArGOGS3.jpeg",
-  "repository":"https://github.com/Yassin994/YESSER-1",
+  "logo":"https://i.imgur.com/wNmvNyY.jpeg",
+  "repository":"https://github.com/Next5x/TIMNASA_VD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -16,7 +16,7 @@
 	  "ANTICALL":
     {
       "description":"Enter yes for your bot to reject calls",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
          "AUTO_BIO":
@@ -71,7 +71,7 @@
        "BOT_NAME" : 
     {
     "description":"put A name for your bot",
-    "value":"YESSER-MD",
+    "value":"VONOM-WE",
     "required":false
 
     },
@@ -111,20 +111,20 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "yessertech"
+    "value": "VENOM"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255621995482"
+    "value": "255759635837"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "5"
+    "value": "3"
   },
   "STARTING_BOT_MESSAGE":
   {
